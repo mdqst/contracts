@@ -8,6 +8,7 @@ Welcome to the **Smart Contracts Repository**! This repository contains a collec
 
 This repository includes smart contracts for the following blockchain networks:
 
+- **Ethereum**
 - **Linea**
 - **Base**
 - **Berachain**
