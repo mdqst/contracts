@@ -8,9 +8,10 @@ Welcome to the **Smart Contracts Repository**! This repository contains a collec
 
 This repository includes smart contracts for the following blockchain networks:
 
-- **Linea** (ETH)
-- **Monad** (MONAD)
-- **Base** (BASE)
+- **Linea**
+- **Base**
+- **Berachain**
+- **Monad**
 
 ## 🛠️ Prerequisites
 
