@@ -6,7 +6,7 @@ Welcome to the **Smart Contracts Repository**! This repository contains a collec
 
 ## 🌐 Supported Networks
 
-This repository includes smart contracts for the following blockchain networks:
+This repository includes smart contracts for the following blockchain networks
 
 - **Ethereum**
 - **Linea**
