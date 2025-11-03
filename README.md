@@ -107,8 +107,6 @@ Contributions are welcome! If you'd like to add a contract for a new blockchain 
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a pull request
 
-## 📧 Contact
-
 If you have any questions, feel free to reach out via email or create an issue in this repository.
 
 ---
