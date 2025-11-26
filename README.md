@@ -43,7 +43,7 @@ To work with the smart contracts in this repository, you'll need the following d
 
    - For Solana contracts:
 
-     Make sure you have **Rust** and **Solana CLI** installed. Follow the [Solana installation guide](https://docs.solana.com/cli/install-solana-cli-tools) if needed.
+     Make sure you have **Rust** and **Solana CLI** installed. Follow the [Solana installation guide](https://solana.com/docs/intro/installation) if needed.
 
 ## 🚀 Deployment
 
